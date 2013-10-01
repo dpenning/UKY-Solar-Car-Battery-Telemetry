@@ -3,9 +3,9 @@ import time, serial
 from PyQt4.Qt import *
 
 ########## You can change these ############
-serial_debug = True   # turn random serial requests on
-logging = True        # turn logging on
-bad_bat_temp = 30   # max value for the battery tempurature
+serial_debug = True     # turn random serial requests on
+logging = True          # turn logging on
+bad_bat_temp = 30       # max value for the battery tempurature
 max_bat_voltage = 36500 # maximum battery voltage
 min_bat_voltage = 26500 # maximum battery voltage
 max_ary_voltage = 10000 # maximum array voltage
