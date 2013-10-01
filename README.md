@@ -17,7 +17,7 @@ input comes from our car's transmitter with information like
 
 What should i work on?
 ----------------------
-Check out the (https://github.com/dpenning/UKY-Solar-Car-Battery-Telemetry/issues?state=open "issues") page
+Check out the [issues](https://github.com/dpenning/UKY-Solar-Car-Battery-Telemetry/issues?state=open) page
 
 What if I dont know enough to work on something?
 ------------------------------------------------
