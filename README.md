@@ -22,9 +22,9 @@ Check out the [issues](https://github.com/dpenning/UKY-Solar-Car-Battery-Telemet
 What if I dont know enough to work on something?
 ------------------------------------------------
 Here is some reading material for you to get caught up on.
- - (http://docs.python.org/2/tutorial/ "Python 2.7.5")
- - (http://pyserial.sourceforge.net/ "PySerial")
- - (http://zetcode.com/tutorials/pyqt4/ "PyQT")
+ - [Python 2.7.5](http://docs.python.org/2/tutorial/)
+ - [PySerial](http://pyserial.sourceforge.net/)
+ - [PyQT](http://zetcode.com/tutorials/pyqt4/)
 
 I feel Overwhelmed
 ------------------
